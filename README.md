@@ -1,5 +1,7 @@
-A practical implementation of neural network training and evaluation using TensorFlow.
-Description
+# Classifier of flower images made up with Convolutional Neural Network
+A practical implementation of neural network training and evaluation using TensorFlow and compare the result with ResNet50v2 and EfficientNetB3
+
+## Description
 
 This notebook demonstrates the process of building, training, and evaluating a deep learning model using TensorFlow. It covers data preprocessing, model architecture definition, training, and performance evaluation. 
 The models classify flower images in 5 different classes:
